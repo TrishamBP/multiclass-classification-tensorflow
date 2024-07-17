@@ -14,7 +14,6 @@ This project demonstrates the process of building and optimizing a neural networ
 9. [Visualizations](#visualizations)
 10. [Future Work](#future-work)
 11. [Dependencies](#dependencies)
-12. [How to Run](#how-to-run)
 
 ## Introduction
 
@@ -85,8 +84,6 @@ Here are the accuracy results for our best performing model (Model 4):
 |--------|-------|
 | Training Accuracy | 81.71% |
 | Validation Accuracy | 80.3% |
-
-(Replace X.XX with the actual values from your model's performance)
 
 ## Visualizations
 
